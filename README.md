@@ -3,21 +3,19 @@
 <!-- TOP WAVE BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Prathmesh%20Kharwade&fontSize=52&fontColor=00d4ff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=62&descSize=17&descColor=c0caf5"/>
 
-<!-- TYPING ANIMATION — verified working URL -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=⚡+Full+Stack+Developer;🚀+React+%7C+Next.js+%7C+Node.js;🎨+GSAP+%7C+WebGL+%7C+Three.js;🐳+Docker+%7C+Redis+%7C+Vector+DB;💡+Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
+<!-- ✅ FIXED TYPING SVG — no slash before ?, correct demolab format -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=⚡+Full+Stack+Developer;🚀+React+%7C+Next.js+%7C+Node.js;🎨+GSAP+%7C+WebGL+%7C+Three.js;🐳+Docker+%7C+Redis+%7C+VectorDB;💡+Turning+Ideas+Into+Scalable+Products)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
 <!-- BADGES ROW -->
 <img src="https://komarev.com/ghpvc/?username=prathmeshkharwade-dev&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/prathmeshkharwade-dev?label=FOLLOWERS&style=for-the-badge&color=6e40c9&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -58,14 +56,14 @@ const prathmesh: Developer = {
 
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
 <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
 **🛠️ Backend & APIs**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" />
 
-**🗄️ Databases & Caching**
+**🗄️ Database & Caching**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" />
 
@@ -84,57 +82,45 @@ const prathmesh: Developer = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathmeshkharwade-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=6e40c9&text_color=c0caf5&border_radius=16&rank_icon=github&show=prs_merged,reviews"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=prathmeshkharwade-dev&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=6e40c9&dates=c0caf5&border_radius=16"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=prathmeshkharwade-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=6e40c9&text_color=c0caf5&border_radius=12&include_all_commits=true&count_private=true"/>
+<br/><br/>
 
-</td>
-<td width="50%">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=prathmeshkharwade-dev&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=6e40c9&dates=c0caf5&border_radius=12"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshkharwade-dev&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c0caf5&border_radius=12&langs_count=8"/>
-
-</td>
-</tr>
-</table>
-
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=prathmeshkharwade-dev&bg_color=0d1117&color=00d4ff&line=6e40c9&point=00d4ff&area=true&hide_border=true&radius=12&area_color=6e40c9"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=prathmeshkharwade-dev&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c942&hide_border=true&radius=8&custom_title=Contribution%20Activity"/>
 
 </div>
 
 ---
 
-## `🏆 trophies --display`
+
+
+
+
+## `🚀 entrepreneur_mode --on`
+
+```typescript
+const mindset: Entrepreneur = {
+  vision      : "Build products that solve real problems at scale",
+  approach    : "Ship fast → get feedback → iterate → dominate",
+  strengths   : ["Product thinking", "Full stack execution", "Zero to one builds"],
+  belief      : "Every great startup started with a developer and an idea",
+  currentBuild: "Turning side projects into revenue-generating products 💰",
+  principle   : "Don't just write code — build businesses with code",
+  superpower  : "Seeing a problem and shipping a working solution the same week"
+};
+```
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prathmeshkharwade-dev&theme=onestar&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=true"/>
-
-</div>
-
----
-
-## `🚀 currently_running`
-
-<div align="center">
-
-| Process | Status | Progress |
-|---|---|---|
-| 🧠 Mastering WebGL & 3D Web | `ACTIVE` | `████████████░░░░░░░` 65% |
-| 🐳 Dockerizing All My Projects | `ACTIVE` | `███████████████░░░░` 78% |
-| 🤖 Integrating AI into Full Stack Apps | `RUNNING` | `█████████░░░░░░░░░░` 45% |
-| 🌐 Building SaaS Product | `IN PROGRESS` | `████████████████░░░` 82% |
-| 📦 Contributing to Open Source | `ONGOING` | `██████████████████░` 90% |
-| 🔴 Learning Redis & VectorDBs | `ACTIVE` | `███████████░░░░░░░░` 55% |
+| 💼 | Entrepreneur Mindset |
+|---|---|
+| 🎯 | I don't build features — I build solutions people pay for |
+| ⚡ | Idea to MVP in days, not months |
+| 🌍 | Every line of code is an asset, not just a task |
+| 📈 | I think in users, revenue, and retention — not just in functions |
+| 🔥 | Side projects aren't hobbies — they're startups in stealth mode |
+| 🤝 | Great products = great code + great distribution |
 
 </div>
 
@@ -158,17 +144,23 @@ const prathmesh: Developer = {
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+<a href="https://YOUR_PORTFOLIO.dev">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=00d4ff&color=00d4ff&labelColor=0d1117"/>
 </a>&nbsp;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0d1117&labelColor=0d1117&border=0A66C2"/>
 </a>&nbsp;
 <a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/X_(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&color=0d1117&labelColor=0d1117"/>
 </a>&nbsp;
-<a href="https://YOUR_PORTFOLIO.dev">
-  <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0d1117&labelColor=0d1117"/>
+</a>&nbsp;
+<a href="https://dev.to/YOUR_DEVTO">
+  <img src="https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=ffffff&color=0d1117&labelColor=0d1117"/>
+</a>&nbsp;
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=0d1117&labelColor=0d1117"/>
 </a>
 
 <br/><br/>

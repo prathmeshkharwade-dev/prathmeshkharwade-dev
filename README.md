@@ -153,13 +153,13 @@ const mindset: Entrepreneur = {
 <a href="https://twitter.com/YOUR_TWITTER">
   <img src="https://img.shields.io/badge/X_(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&color=0d1117&labelColor=0d1117"/>
 </a>&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0d1117&labelColor=0d1117"/>
 </a>&nbsp;
 <a href="https://dev.to/YOUR_DEVTO">
   <img src="https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=ffffff&color=0d1117&labelColor=0d1117"/>
 </a>&nbsp;
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/">
   <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=0d1117&labelColor=0d1117"/>
 </a>
 
